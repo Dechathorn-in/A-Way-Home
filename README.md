@@ -1,5 +1,5 @@
 # A-Way-Home Unity File
-The file is too big for commit to the git.
+Due to The file is too big for commit to the git please download project file from the link below instead.
 <br>Installation for preparing import A Way Home project to the unity 
 <br>Download unity package here: https://o365cmu-my.sharepoint.com/:u:/g/personal/dechathorn_in_cmu_ac_th/ER7KK9yvvNpIjyLnk8Vx_-UBn1Z8H4ZPDAIK7KuL9mjSwQ?e=amaX7S
 <br>This file contains all the asset, model, texture, etc in game.
@@ -11,8 +11,8 @@ Installation:
 --------------------------------------------------------------------------
 # A-Way-Home Game File
 Installation for playing the game.
-Download game here: https://o365cmu-my.sharepoint.com/:u:/g/personal/dechathorn_in_cmu_ac_th/EYX58vJC0UxIgReSOPQAK3cBOslj5OpRnd7iKISkTXuPgQ?e=iHvIAW
-This file contains the main game of A Way home.
+<br>Download game here: https://o365cmu-my.sharepoint.com/:u:/g/personal/dechathorn_in_cmu_ac_th/EYX58vJC0UxIgReSOPQAK3cBOslj5OpRnd7iKISkTXuPgQ?e=iHvIAW
+<br>This file contains the main game of A Way home.
 --------------------------------------------------------------------------
 Installation:
 1. Extract the file.
