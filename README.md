@@ -1,8 +1,8 @@
 # A-Way-Home Unity File
 The file is too big for commit to the git.
-Installation for preparing import A Way Home project to the unity 
-Download unity package here: https://o365cmu-my.sharepoint.com/:u:/g/personal/dechathorn_in_cmu_ac_th/ER7KK9yvvNpIjyLnk8Vx_-UBn1Z8H4ZPDAIK7KuL9mjSwQ?e=amaX7S
-This file contains all the asset, model, texture, etc in game.
+<br>Installation for preparing import A Way Home project to the unity 
+<br>Download unity package here: https://o365cmu-my.sharepoint.com/:u:/g/personal/dechathorn_in_cmu_ac_th/ER7KK9yvvNpIjyLnk8Vx_-UBn1Z8H4ZPDAIK7KuL9mjSwQ?e=amaX7S
+<br>This file contains all the asset, model, texture, etc in game.
 --------------------------------------------------------------------------
 Installation:
 1. Create the new project in Unity 2021.3.10f1 or newer version.
