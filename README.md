@@ -10,7 +10,7 @@ Installation:
 3. Done.
 --------------------------------------------------------------------------
 # A-Way-Home Game File
-Installation for playing the game.
+Installation the main game.
 <br>Download game here: https://o365cmu-my.sharepoint.com/:u:/g/personal/dechathorn_in_cmu_ac_th/EYX58vJC0UxIgReSOPQAK3cBOslj5OpRnd7iKISkTXuPgQ?e=iHvIAW
 <br>This file contains the main game of A Way home.
 --------------------------------------------------------------------------
